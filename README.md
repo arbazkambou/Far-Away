@@ -2,6 +2,8 @@
 
 Far Away is a React application designed to help users prepare a list of items they need to carry with them. The app allows users to add, delete, and clear items from their list, change the status of items (packed or not), and sort items by number, description, and packed status.
 
+[Deployed Project Link](https://far-away-flax-rho.vercel.app/)
+
 ## Features
 
 - **Add Item**: Users can add items to their packing list.
